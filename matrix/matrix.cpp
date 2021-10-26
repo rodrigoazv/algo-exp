@@ -26,7 +26,7 @@ int main(){
 
 	for(i=0; i<N; i++){
 		for(j=0; j<N; j++){
-			cout << C[i][j] << " ";
+			cout << C[i][j] << "";
 		}
 		cout<<endl;
 	}
